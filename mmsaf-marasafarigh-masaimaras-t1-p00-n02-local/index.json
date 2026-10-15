@@ -1,0 +1,24 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T1-P00-N02-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t1-p00-n02-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Great Migration Safari Expeditions & Big Five Tracking in Masai Mara Kenya",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t1-p00-n02-local/",
+  "primaryEntity": "Great Migration Safari Tours & Mara River Crossings",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t2-p01-n01-local/",
+      "anchor": "Seasonal Wildlife Calendar & Great Migration Timing in Masai Mara",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/guides/great-migration/",
+    "https://masaimarasafaripackages.net/luxury-safari/",
+    "https://masaimarasafaripackages.net/",
+    "https://masaimarasafaripackages.net/guides/reserve-vs-conservancies/",
+    "https://en.wikipedia.org/wiki/Maasai_Mara"
+  ]
+}
