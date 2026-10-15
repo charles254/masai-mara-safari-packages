@@ -1,0 +1,23 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T2-P02-N01-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t2-p02-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Safari Logistics: Wilson Airport Bush Flights vs Rift Valley Road Transfers",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t2-p02-n01-local/",
+  "primaryEntity": "Sunrise Hot Air Balloon Safaris & Champagne Bush Breakfasts",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t2-p02-n02-local/",
+      "anchor": "Luxury Tented Camps, Eco-Lodges & Bush Dining in Masai Mara",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/",
+    "https://en.wikipedia.org/wiki/Maasai_Mara",
+    "https://masaimarasafaripackages.net/about/",
+    "https://masaimarasafaripackages.net/guides/safety/"
+  ]
+}
