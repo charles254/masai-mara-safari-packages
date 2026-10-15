@@ -1,0 +1,23 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T1-P00-N01-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Masai Mara Safari Packages — Authentic Kenya Wildlife Expeditions & Migration Tours",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t1-p00-n01-local/",
+  "primaryEntity": "Masai Mara Safari Packages & Custom Expeditions",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t1-p00-n02-local/",
+      "anchor": "Great Migration Safari Expeditions & Big Five Tracking in Masai Mara Kenya",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/",
+    "https://masaimarasafaripackages.net/guides/great-migration/",
+    "https://masaimarasafaripackages.net/luxury-safari/",
+    "https://masaimarasafaripackages.net/guides/reserve-vs-conservancies/"
+  ]
+}
