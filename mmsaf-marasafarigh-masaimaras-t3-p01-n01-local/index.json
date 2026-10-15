@@ -1,0 +1,25 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T3-P01-N01-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t3-p01-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Mara River Crossing Corridors & Wildebeest Migration Dynamics",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p01-n01-local/",
+  "primaryEntity": "Big Five African Wildlife Predator Tracking & Observation",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p01-n02-local/",
+      "anchor": "KPSGA Guide Accreditations & Ethical Field Naturalist Standards",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/",
+    "https://masaimarasafaripackages.net/guides/safety/",
+    "https://masaimarasafaripackages.net/about/",
+    "https://en.wikipedia.org/wiki/Kenya_Wildlife_Service",
+    "https://masaimarasafaripackages.net/luxury-safari/",
+    "https://masaimarasafaripackages.net/guides/park-fees/"
+  ]
+}
