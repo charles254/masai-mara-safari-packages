@@ -1,0 +1,24 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T3-P04-N01-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t3-p04-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Nocturnal Spotlight Game Drives in Private Wildlife Conservancies",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p04-n01-local/",
+  "primaryEntity": "Mara River & Talek River Wildebeest Migration Crossing Corridors",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p04-n02-local/",
+      "anchor": "Big Five African Apex Predator Territorial Tracking & Ethology",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/guides/great-migration/",
+    "https://masaimarasafaripackages.net/flying-safari/",
+    "https://masaimarasafaripackages.net/guides/reserve-vs-conservancies/",
+    "https://masaimarasafaripackages.net/guides/what-to-pack/",
+    "https://masaimarasafaripackages.net/"
+  ]
+}
