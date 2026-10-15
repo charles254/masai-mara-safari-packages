@@ -1,0 +1,24 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T2-P01-N03-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t2-p01-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Private Conservancies vs Masai Mara National Reserve: Field Guide",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t2-p01-n03-local/",
+  "primaryEntity": "Private Mara Conservancy Safaris: Mara North, Olare Motorogi & Naboisho",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t2-p02-n01-local/",
+      "anchor": "Safari Logistics: Wilson Airport Bush Flights vs Rift Valley Road Transfers",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/guides/reserve-vs-conservancies/",
+    "https://masaimarasafaripackages.net/",
+    "https://en.wikipedia.org/wiki/Maasai_Mara",
+    "https://masaimarasafaripackages.net/about/",
+    "https://masaimarasafaripackages.net/guides/safety/"
+  ]
+}
