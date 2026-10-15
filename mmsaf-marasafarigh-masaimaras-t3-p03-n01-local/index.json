@@ -1,0 +1,25 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T3-P03-N01-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t3-p03-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Sunrise Hot Air Balloon Safaris & Champagne Bush Breakfast Logistics",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p03-n01-local/",
+  "primaryEntity": "Eco-Tourism Kenya Gold & Silver Environmental Eco-Rating Certification",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p03-n02-local/",
+      "anchor": "Guided Walking Bush Safaris with Indigenous Maasai Trackers",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/luxury-safari/",
+    "https://masaimarasafaripackages.net/guides/park-fees/",
+    "https://masaimarasafaripackages.net/guides/great-migration/",
+    "https://masaimarasafaripackages.net/flying-safari/",
+    "https://masaimarasafaripackages.net/guides/reserve-vs-conservancies/",
+    "https://masaimarasafaripackages.net/"
+  ]
+}
