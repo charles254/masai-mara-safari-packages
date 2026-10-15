@@ -1,0 +1,23 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T3-P04-N02-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t3-p04-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Big Five African Apex Predator Territorial Tracking & Ethology",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p04-n02-local/",
+  "primaryEntity": "Nairobi Wilson Airport (WIL) Scheduled Twin-Engine Bush Flights",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p05-n01-local/",
+      "anchor": "Tourism Regulatory Authority (TRA) & KTB Licensing Frameworks",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/flying-safari/",
+    "https://masaimarasafaripackages.net/guides/reserve-vs-conservancies/",
+    "https://masaimarasafaripackages.net/guides/what-to-pack/",
+    "https://masaimarasafaripackages.net/"
+  ]
+}
