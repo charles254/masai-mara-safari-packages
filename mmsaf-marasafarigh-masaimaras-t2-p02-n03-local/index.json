@@ -1,0 +1,24 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T2-P02-N03-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t2-p02-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Wildlife Photography Guide for Masai Mara: Telephoto Optics & Savanna Light",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t2-p02-n03-local/",
+  "primaryEntity": "KPSGA Certified Professional Safari Naturalist Driver-Guides",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p01-n01-local/",
+      "anchor": "Mara River Crossing Corridors & Wildebeest Migration Dynamics",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/about/",
+    "https://masaimarasafaripackages.net/",
+    "https://masaimarasafaripackages.net/guides/safety/",
+    "https://en.wikipedia.org/wiki/Kenya_Wildlife_Service",
+    "https://masaimarasafaripackages.net/luxury-safari/"
+  ]
+}
