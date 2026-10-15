@@ -1,0 +1,26 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T3-P02-N01-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t3-p02-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "AMREF Flying Doctors Aeromedical Evacuation Protocols & Bush Safety",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p02-n01-local/",
+  "primaryEntity": "Tourism Regulatory Authority (TRA) Commercial Tour Operator Licensing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p02-n02-local/",
+      "anchor": "Narok County Government Conservation Fees & Smart Card Park Access",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/about/",
+    "https://en.wikipedia.org/wiki/Kenya_Wildlife_Service",
+    "https://masaimarasafaripackages.net/luxury-safari/",
+    "https://masaimarasafaripackages.net/guides/park-fees/",
+    "https://masaimarasafaripackages.net/guides/great-migration/",
+    "https://masaimarasafaripackages.net/flying-safari/",
+    "https://masaimarasafaripackages.net/"
+  ]
+}
