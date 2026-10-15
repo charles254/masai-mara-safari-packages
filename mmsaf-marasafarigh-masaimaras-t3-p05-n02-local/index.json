@@ -1,0 +1,24 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T3-P05-N02-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t3-p05-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Kenya Electronic Travel Authorisation (eTA) & International Entry Protocols",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p05-n02-local/",
+  "primaryEntity": "Nocturnal Spotlight Game Drives in Private Wildlife Conservancies",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p06-n01-local/",
+      "anchor": "Eco-Tourism Kenya Sustainability Audits & Eco-Camp Ratings",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/guides/reserve-vs-conservancies/",
+    "https://masaimarasafaripackages.net/guides/what-to-pack/",
+    "https://masaimarasafaripackages.net/",
+    "https://masaimarasafaripackages.net/guides/great-migration/",
+    "https://masaimarasafaripackages.net/luxury-safari/"
+  ]
+}
