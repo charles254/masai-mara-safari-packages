@@ -1,0 +1,26 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T3-P02-N02-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t3-p02-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Narok County Government Conservation Fees & Smart Card Park Access",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p02-n02-local/",
+  "primaryEntity": "Kenya Wildlife Service (KWS) Conservation Standards & Wildlife Protection",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p03-n01-local/",
+      "anchor": "Sunrise Hot Air Balloon Safaris & Champagne Bush Breakfast Logistics",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kenya_Wildlife_Service",
+    "https://masaimarasafaripackages.net/luxury-safari/",
+    "https://masaimarasafaripackages.net/guides/park-fees/",
+    "https://masaimarasafaripackages.net/guides/great-migration/",
+    "https://masaimarasafaripackages.net/flying-safari/",
+    "https://masaimarasafaripackages.net/guides/reserve-vs-conservancies/",
+    "https://masaimarasafaripackages.net/"
+  ]
+}
