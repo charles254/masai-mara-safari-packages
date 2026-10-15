@@ -1,0 +1,25 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T3-P03-N02-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t3-p03-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Guided Walking Bush Safaris with Indigenous Maasai Trackers",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p03-n02-local/",
+  "primaryEntity": "Narok County Government Conservation Fees & Smart Card Park Access",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p04-n01-local/",
+      "anchor": "Nocturnal Spotlight Game Drives in Private Wildlife Conservancies",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/guides/park-fees/",
+    "https://masaimarasafaripackages.net/guides/great-migration/",
+    "https://masaimarasafaripackages.net/flying-safari/",
+    "https://masaimarasafaripackages.net/guides/reserve-vs-conservancies/",
+    "https://masaimarasafaripackages.net/guides/what-to-pack/",
+    "https://masaimarasafaripackages.net/"
+  ]
+}
