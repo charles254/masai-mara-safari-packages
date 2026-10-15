@@ -1,0 +1,23 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T3-P06-N01-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t3-p06-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Eco-Tourism Kenya Sustainability Audits & Eco-Camp Ratings",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p06-n01-local/",
+  "primaryEntity": "Professional Wildlife Photography Equipment Mounts & Inverter Charging",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p06-n02-local/",
+      "anchor": "Safari Itinerary Architecture: 3-Day Express vs 7-Day In-Depth Expeditions",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/guides/what-to-pack/",
+    "https://masaimarasafaripackages.net/",
+    "https://masaimarasafaripackages.net/guides/great-migration/",
+    "https://masaimarasafaripackages.net/luxury-safari/"
+  ]
+}
