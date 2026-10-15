@@ -1,0 +1,24 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T2-P02-N02-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t2-p02-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Luxury Tented Camps, Eco-Lodges & Bush Dining in Masai Mara",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t2-p02-n02-local/",
+  "primaryEntity": "Masai Mara National Reserve & Mara Triangle Ecosystem Sanctuary",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t2-p02-n03-local/",
+      "anchor": "Wildlife Photography Guide for Masai Mara: Telephoto Optics & Savanna Light",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maasai_Mara",
+    "https://masaimarasafaripackages.net/about/",
+    "https://masaimarasafaripackages.net/",
+    "https://masaimarasafaripackages.net/guides/safety/",
+    "https://en.wikipedia.org/wiki/Kenya_Wildlife_Service"
+  ]
+}
