@@ -1,0 +1,24 @@
+{
+  "nodeCode": "MMSAF-MARASAFARIGH-MASAIMARAS-T3-P06-N02-LOCAL",
+  "slug": "mmsaf-marasafarigh-masaimaras-t3-p06-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Safari Itinerary Architecture: 3-Day Express vs 7-Day In-Depth Expeditions",
+  "canonical": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p06-n02-local/",
+  "primaryEntity": "Kenya Electronic Travel Authorisation (eTA) & Entry Protocol Compliance",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t1-p00-n01-local/",
+      "anchor": "Masai Mara Safari Packages — Authentic Kenya Wildlife Expeditions & Migration Tours",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://masaimarasafaripackages.net/guides/what-to-pack/",
+    "https://masaimarasafaripackages.net/",
+    "https://masaimarasafaripackages.net/guides/great-migration/",
+    "https://masaimarasafaripackages.net/luxury-safari/",
+    "https://masaimarasafaripackages.net/guides/reserve-vs-conservancies/"
+  ]
+}
