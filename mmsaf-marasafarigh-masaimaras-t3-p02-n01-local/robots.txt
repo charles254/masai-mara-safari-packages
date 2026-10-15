@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/masai-mara-safari-packages/mmsaf-marasafarigh-masaimaras-t3-p02-n01-local/sitemap.xml
